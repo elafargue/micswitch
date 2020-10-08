@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11022016-093998";"";
+"REFERENCE";"SJ-43515TS";"";
+"TraceParts.PartTitle";"SJ-4351X Series - 3.5 mm, 4 Conductors, Right Angle, Through Hole, Audio Jack Connector";"";
+"TraceParts.InstanceId";"10-11022016-093998BHAEFILJNE8RWKVDP0YNVYTUQ";"";
+"DESIGN";"4 Conductor 3.5 mm Audio Jack w/ Tip Switch";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-11022016-093998";"";
